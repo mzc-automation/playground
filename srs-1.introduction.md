@@ -1,4 +1,4 @@
-### Introduction
+## Introduction
 #### Purpose (목표)
 #### Product Scopde (범위)
 - 모든 이해관계자가 빠짐없이 읽고 검토해야 하는 섹션으로 SRS에서 가장 중요한 파트
